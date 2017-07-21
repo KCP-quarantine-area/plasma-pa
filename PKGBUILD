@@ -10,7 +10,7 @@ depends=('kconfigwidgets' 'kcoreaddons' 'ki18n' 'kdeclarative' 'plasma-framework
          'libcanberra' 'gconf')
 makedepends=('pkg-config' 'extra-cmake-modules' 'kdoctools')
 source=("${pkgname}-${pkgver}.tar.gz::https://github.com/ShalokShalom/${pkgname}/archive/${pkgver}.tar.gz")
-md5sums=('c9ecfa28f9f3368528deec7098a65948')
+md5sums=('5e60d82ce6a7e6467f08c1d75200db31')
 
 
 prepare() {
